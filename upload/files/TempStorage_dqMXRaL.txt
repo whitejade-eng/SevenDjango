@@ -1,0 +1,3 @@
+{"userRandomNumber":"20230331141043365734","userName":"1","userAge":"1","userSex":"male","HearLoss":false,"userLEar":{"Aid":"无"},"userREar":{"Aid":"无"}}
+{"userListenSex":"male","userListenAge":"儿童","gaussianNoise":"0"}
+{"id":1,"userSelect":22,"trueSelect":18,"userScore":0}
