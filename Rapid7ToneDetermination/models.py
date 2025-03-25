@@ -9,6 +9,7 @@ class User(models.Model):
     userAge = models.CharField(max_length=32)
     userSex = models.CharField(max_length=32)
     HearLoss = models.CharField(max_length=32)
+    userLossTime = models.CharField(max_length=32)
     userLEar = models.CharField(max_length=32)
     userLEarAid = models.CharField(max_length=32)
     userREar = models.CharField(max_length=32)
