@@ -1,0 +1,23 @@
+# requirements.txt
+
+# 核心框架
+Django==3.2                # Django 框架核心
+djangorestframework==3.14.0  # REST API 支持
+
+# 数据库与驱动
+pymysql==1.0.2             # MySQL 连接驱动
+
+# 音频处理模块
+librosa==0.9.2             # 音频分析
+soundfile==0.12.1          # 音频文件读写
+
+# 数学计算与信号处理
+numpy==1.24.3              # 数学基础库
+scipy==1.10.1              # 信号处理与滤波器设计
+
+# 数据可视化
+matplotlib==3.7.1          # 图表生成
+
+# 系统工具
+threading6==1.0.0          # 线程管理
+python-dotenv==1.0.0       # 环境变量管理
